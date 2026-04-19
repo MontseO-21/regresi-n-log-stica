@@ -1,4 +1,4 @@
-# regresi-n-log-stica
+# regresión logística
 La regresión logística es preferida en la investigación médica debido a su capacidad para manejar problemas de clasificación
 binaria de manera efectiva. Permite a los investigadores analizar la relación entre las características del paciente y los resultados,
 lo que la hace adecuada para tareas como predecir respuestas a medicamentos.
